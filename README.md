@@ -1,5 +1,5 @@
-# X-Ray_Denoising
-Autoencoder pipeline  to denoise X-Ray images.
+# Mediacl Image Denoising
+Autoencoder pipeline  to denoise Medical Images.
 
 # Data
 
